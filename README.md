@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
