@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0007-reverse-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
