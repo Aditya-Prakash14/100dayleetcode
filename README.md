@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0014-longest-common-prefix) |
 | [0090-subsets-ii](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0135-candy) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
