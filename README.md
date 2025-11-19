@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0090-subsets-ii) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Aditya-Prakash14/100dayleetcode/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
